@@ -2,11 +2,8 @@
 <?eclipse-pydev version="1.0"?><pydev_project>
 <pydev_variables_property name="org.python.pydev.PROJECT_VARIABLE_SUBSTITUTION">
 <key>GOOGLE_APP_ENGINE</key>
-<<<<<<< HEAD
+
 <value>/usr/local/google_appengine</value>
-=======
-<value>/home/mint/development/google_appengine</value>
->>>>>>> 5f59d97bd9ecbaf92241d80df0875838b578e77c
 </pydev_variables_property>
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
 <path>/${PROJECT_DIR_NAME}</path>
@@ -40,10 +37,7 @@
 <path>${GOOGLE_APP_ENGINE}/lib/portpicker</path>
 <path>${GOOGLE_APP_ENGINE}/lib/prettytable</path>
 <path>${GOOGLE_APP_ENGINE}/lib/protorpc-1.0</path>
-<<<<<<< HEAD
 <path>${GOOGLE_APP_ENGINE}/lib/pyasn1</path>
-=======
->>>>>>> 5f59d97bd9ecbaf92241d80df0875838b578e77c
 <path>${GOOGLE_APP_ENGINE}/lib/pyasn1_modules</path>
 <path>${GOOGLE_APP_ENGINE}/lib/python-gflags/tests</path>
 <path>${GOOGLE_APP_ENGINE}/lib/requests</path>
