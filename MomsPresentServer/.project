@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>MomsPresentServer</name>
+=======
+	<name>MomsProjectServer</name>
+>>>>>>> 5f59d97bd9ecbaf92241d80df0875838b578e77c
 	<comment></comment>
 	<projects>
 	</projects>
